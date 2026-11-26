@@ -1,63 +1,15 @@
-# 👋 Hi, I'm Ajith N K
+## Hi, I'm Ajith 👋
 
-🎓 Engineering Graduate turned Full-Stack Developer  
-🌍 Kochi, India  
-📫 ajithnellikottu@gmail.com | 📞 +91-85939-10902  
-🔗 [LinkedIn](https://www.linkedin.com/in/ajith-nellikott-0b79b7195/) • [GitHub](https://github.com/ajithnellikottkrishnadas)
+**Cloud Infrastructure Engineer** focused on AWS, Linux and DevOps. I keep production and non-production environments running reliably: server maintenance, patching, monitoring, storage administration and troubleshooting.
 
----
+**What I work on**
+- ☁️ **Cloud:** EC2, ECS, S3, EBS, Amazon FSx, CloudWatch, VPC, IAM, Systems Manager
+- 🐧 **Linux & networking:** administration, file systems, permissions, TCP/IP, DNS, firewalls
+- ⚙️ **Automation:** PowerShell and AWS CLI scripts for repetitive operations, plus infrastructure as code
+- 🖥️ **Full-stack:** MERN applications (React, Node.js, Express, MongoDB) with REST APIs and JWT auth
 
-## 🚀 Tech Stack
+**Currently learning:** Kubernetes, Terraform, Docker and CI/CD automation, with a focus on system design and AWS architecture.
 
-### 👨‍💻 Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
-</p>
+**Engineering background:** B.Tech in Civil Engineering, then self-taught into cloud and software engineering through hands-on work and a full-stack bootcamp.
 
-### 🖥️ Backend & Server
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-</p>
-
-### 🗃️ Database
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-### 🛠️ Tools & Utilities
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
-
----
-
-## 📁 Projects
-
-👨‍💻 **All of my repositories are available at:**  
-👉 [https://github.com/ajithnellikottkrishnadas?tab=repositories](https://github.com/ajithnellikottkrishnadas?tab=repositories)
-
----
-
-## 🎓 Education
-
-**Bachelor of Technology (B.Tech)**  
-Civil Engineering  
-*Government Engineering College, Kozhikode*
-
----
-
-## 📜 Certifications
-
-- ✅ **The Complete Full-Stack Web Development Bootcamp**  
-  *by Dr. Angela Yu on Udemy*
-
-
----
-
+📍 Kerala, India · Open to cloud and DevOps opportunities
